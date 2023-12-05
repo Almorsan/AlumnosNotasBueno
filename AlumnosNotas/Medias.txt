@@ -1,0 +1,4 @@
+La nota media de pepe es 4.0
+La nota media de ana es 7.0
+La nota media de luisa es 9.0
+La nota media de diego es 4.0
